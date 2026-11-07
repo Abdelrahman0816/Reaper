@@ -1,0 +1,7 @@
+# Build output
+SDL2/game
+SDL2/main
+SDL2/server
+*.o
+*.exe
+.DS_Store
